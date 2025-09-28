@@ -21,9 +21,9 @@
 - `docs/` 計劃書與證明文件
 - `demo/` Demo 畫面與影片（影片以YouTube呈現）
 
-## Demo
-- Web Demo Video:[web負責部分demo影片](https://youtu.be/-nXgV6SqM9Q)
-- App Demo PDF: [app_demo](docs/app_demo.pdf)
+## 系統流程圖
+- ![](docs/flowchart.png)
+
 
 ## Demo
 - Web Demo Video:[web負責部分demo影片](https://youtu.be/-nXgV6SqM9Q)
