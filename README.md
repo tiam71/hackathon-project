@@ -11,15 +11,22 @@
 - 整合認證篩選機制，提供長者及其家屬可信的照顧人員與醫療設備管道。
 
 ## 成果
-- 參加 XXX 黑客松比賽，榮獲 **第二名**。
-- Demo 包含 **Web 平台** 與 **App Demo**，其中 Web 影片由我負責開發。
+- 參加 2024永續智慧創新黑客松競賽，榮獲 **第二名**。
+  【高齡長照服務方案永續創新商業模式組】
+- 參加2024永續智慧創新黑客松企業論壇
+  【大健康論壇】及【ESG永續論壇】
+- Demo 包含 **Web 平台** 與 **App Demo**，其中 **Web平台**由我負責開發。
 
 ## 專案結構
-- `docs/` 計劃書與說明文件
-- `demo/` Demo 畫面與影片（影片以 YouTube/雲端連結呈現）
+- `docs/` 計劃書與證明文件
+- `demo/` Demo 畫面與影片（影片以YouTube呈現）
 
 ## Demo
-- Web Demo Video: web負責部分demo影片[https://youtu.be/-nXgV6SqM9Q](#)
-- App Demo PDF: [docs/app_demo.pdf](docs/app_demo.pdf)
+- Web Demo Video:[web負責部分demo影片](https://youtu.be/-nXgV6SqM9Q)
+- App Demo PDF: [app_demo](docs/app_demo.pdf)
+
+## Demo
+- Web Demo Video:[web負責部分demo影片](https://youtu.be/-nXgV6SqM9Q)
+- App Demo PDF: [app_demo](docs/app_demo.pdf)
 
 
